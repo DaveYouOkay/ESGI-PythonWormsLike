@@ -13,8 +13,8 @@
 
 ![ChangeEquipe](https://github.com/DaveYouOkay/ESGI-PythonWormsLike/assets/97070339/f483097d-7c71-4e9f-8674-971ec1c35225)
 
-### Le choix minimum est un duel quant au maximum est de 8 équipe de 4 joueur 
-### Green = FPS | White = Time | Red Health
+### Le choix minimum est un duel quant au maximum est de 8 équipes de 4 joueurs 
+### Vert = FPS | Blanc = Temps du tour | Rouge = Vie du personnage sélectionné
 
 ![allEquipeMinMax](https://github.com/DaveYouOkay/ESGI-PythonWormsLike/assets/97070339/73a7f1b1-c077-41a7-bc58-b5311a8e1736)
 
