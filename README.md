@@ -1,6 +1,6 @@
 # Illustration du jeu
 
-**Ceci est est Worms-like fait en Python en utilisant Pygame**
+**Ceci est un Worms-like fait en Python en utilisant Pygame**
 
 ![title_screen](https://github.com/DaveYouOkay/ESGI-PythonWormsLike/assets/97070339/526a3531-696b-44b4-8674-9744781a1830)
 
